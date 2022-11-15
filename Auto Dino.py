@@ -26,8 +26,6 @@ def iscollide(data):
                     return True
 
 
-# webbrowser.open("google.chrome://dino")
-
 time.sleep(3)
 
 pyautogui.press('space')  # start the game
